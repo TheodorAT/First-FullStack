@@ -1,3 +1,5 @@
-venv
-webapp\db.sqlite3
-webapp\webapp\__pycache__
+*venv
+*node_modules
+*__pycache__
+webapp/db.sqlite3
+webapp/frontend/static/frontend
