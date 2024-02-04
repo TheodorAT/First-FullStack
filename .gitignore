@@ -1,0 +1,3 @@
+venv
+webapp\db.sqlite3
+webapp\webapp\__pycache__
